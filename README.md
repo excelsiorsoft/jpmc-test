@@ -1,8 +1,8 @@
 # These are problems given during the JPMC test
 
-#1- Audit logins to web service: Question description (Java 8)
+**#1- Audit logins to web service: Question description (Java 8)
 
-From the call:  This question focuses on multi-threading and execution service.   Candidates can write their own separate thread or they can have Java provide the thread through an execution service. 
+From the call:  This question focuses on multi-threading and execution service.   Candidates can write their own separate thread or they can have Java provide the thread through an execution service. **
 
  
 
@@ -20,10 +20,10 @@ Your task is to implement the auditLogin method with minimal impact to the exist
 
  
 
-#2- Movie Titles: Question description (Rest API, GET, Back-end Development, JSON, Role based skils)
+**#2- Movie Titles: Question description (Rest API, GET, Back-end Development, JSON, Role based skils)
 
 From the call: API / JSON- This questions consists of one JSON library.  Test takers can use the JDK API or online tools to complete the test.  If they don’t remember Networking API’s they can look at the API documentation, a lot of this is now handled by libraries like Spring. 
-
+**
  
 
 Query a JSON response and print certain results.
@@ -56,9 +56,9 @@ Return an array of strings corresponding to movie titles with susbtr in their Ti
 
  
 
-#3- Maximum difference in Array:  (data structures, algorithms, arrays, core skills, problem solving)
+**#3- Maximum difference in Array:  (data structures, algorithms, arrays, core skills, problem solving)
 
-From the call:  More straight forward Java coding question.  Our candidates have said this is one of the easier questions.
+From the call:  More straight forward Java coding question.  Our candidates have said this is one of the easier questions.**
 
  
 
@@ -94,7 +94,7 @@ The function must return an integer denoting the maximum difference in a. This i
 
  
 
-#4- Animal Inheritance (general programming, inheritance, polymorphism, abstraction, java, C++, C#, OOP, Java 8, core skills)
+**#4- Animal Inheritance (general programming, inheritance, polymorphism, abstraction, java, C++, C#, OOP, Java 8, core skills)**
 
  
 
@@ -144,7 +144,7 @@ For a Duck object, this must return the string quack .
 
  
 
-#5- In Memory Contacts Data Store (Java 8, coding)
+**#5- In Memory Contacts Data Store (Java 8, coding)**
 
  
 
