@@ -1,4 +1,4 @@
-# These are problems given during the JPMC test
+# These are the challenges given during the JPMC test
 
 **#1- Audit logins to web service: Question description (Java 8)
 
